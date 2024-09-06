@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarahgh8
 - 👀 I’m interested in programming, music, video games
-- 🌱 I’m currently learning C/ Bash 
+- 🌱 I’m currently learning C
 - 😄 Pronouns: she/her
 
 <!---
