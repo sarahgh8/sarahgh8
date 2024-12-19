@@ -19,10 +19,10 @@
         <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="LinkedIn" width="30" height="30">
     </a>
     <a href="https://codeforces.com/profile/sarahghcodes">
-        <img src="//codeforces.org/s/18748/apple-icon-57x57.png" alt="LinkedIn" width="30" height="30">
+        <img src="//codeforces.org/s/18748/apple-icon-57x57.png" alt="Codeforces" width="30" height="30">
     </a>
     <a href="https://www.codewars.com/users/sarahgh">
-        <img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" alt="LinkedIn" width="30" height="30">
+        <img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" alt="Codewars" width="30" height="30">
     </a>
 
 </div>
