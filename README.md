@@ -1,33 +1,18 @@
-<div align="center" style="color: #f285ca">
-    <h2>Welcome to my profile ^^! 🌺</h2>
+<div align="center">
+<img src="https://r74.cooltext.com/rendered/cooltext472188394029020.png" alt="Welcome" width="500" height="100">
 </div>
 
-<strong><p style="color:rgb(246, 198, 228)">
-    Hey I'm Sarah Ghunmyeen, a computer student at the university of Jordan and 42 Amman.
-    I'm interested in programming music and art.
-</p></strong>
-
-<div style="color:rgb(246, 198, 228)">
-    <h3>* Programming languages i use:</h3>
-        <img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" alt="C++" width="35" height="35">
-        <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="C++" width="37" height="37">
+<div align="center">
+    <img src="https://adriansblinkiecollection.neocities.org/v1.gif" alt="Blinkie" width="150" height="20">
+    <img src="https://adriansblinkiecollection.neocities.org/g35.gif" alt="Blinkie" width="150" height="20">
+    <img src="https://adriansblinkiecollection.neocities.org/k15.gif" alt="Blinkie" width="150" height="20">
+    <img src="https://adriansblinkiecollection.neocities.org/52.gif" alt="Blinkie" width="150" height="20">
+    <img src="https://adriansblinkiecollection.neocities.org/x44.gif" alt="Blinkie" width="150" height="20">
 </div>
 
-<div style="color:rgb(246, 198, 228)">
-    <h3>* Check out these:</h3>
-    <a href="https://www.linkedin.com/in/sarah-ghunmyeen/">
-        <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="LinkedIn" width="30" height="30">
-    </a>
-    <a href="https://codeforces.com/profile/sarahghcodes">
-        <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-2944796.png" alt="Codeforces" width="30" height="30">
-    </a>
-    <a href="https://www.codewars.com/users/sarahgh">
-        <img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" alt="Codewars" width="30" height="30">
-    </a>
-
+---
+<div align="center" style="background-color:rgb(246, 112, 212); background-image: linear-gradient(315deg, rgb(210, 36, 167) 0%, rgb(237, 46, 212) 74%); padding: px; border-radius: 23px;">
+    <p style="color: white; font-style: italic; font-size: 15px;">
+            Hey there, I'm sarah Ghunmyeen, I'm a computer science student at JU and 42 Amman, I'm very interested in programming, music and art. 🌸
+    </p>
 </div>
-
-<!---
-sarahgh8/sarahgh8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
