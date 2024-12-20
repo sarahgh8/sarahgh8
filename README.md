@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://r74.cooltext.com/rendered/cooltext472188394029020.png" alt="Welcome" width="500" height="100">
+<img src="https://r74.cooltext.com/rendered/cooltext472188394029020.png" alt="Welcome">
 </div>
 
 <div align="center">
