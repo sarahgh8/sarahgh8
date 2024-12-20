@@ -8,9 +8,4 @@
     <img src="https://adriansblinkiecollection.neocities.org/x44.gif" alt="Blinkie" width="150" height="20">
 </div>
 
----
-<div align="center">
-    <p style="color: white; font-style: italic; font-size: 15px;">
-            Hey there, I'm sarah Ghunmyeen, I'm a computer science student at JU and 42 Amman, I'm very interested in programming, music and art. 🌸
-    </p>
-</div>
+#### *Hey there, I'm sarah Ghunmyeen, I'm a computer science student at JU and 42 Amman, I'm very interested in programming, music and art. 🌸*
